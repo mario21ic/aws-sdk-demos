@@ -1,0 +1,8 @@
+Setear la version de ruby
+$ rbenv local 2.3.0
+
+Instalar dependencias
+$ bundler install
+
+Lanzar demo
+$ ruby main.rb
